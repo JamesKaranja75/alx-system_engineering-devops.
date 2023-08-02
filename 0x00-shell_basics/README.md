@@ -1,1 +1,1 @@
-Script to delete betty file
+Delete a directory in another directory
