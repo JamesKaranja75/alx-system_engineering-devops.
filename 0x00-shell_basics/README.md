@@ -1,1 +1,1 @@
-Script for softlink
+Script Copy file
