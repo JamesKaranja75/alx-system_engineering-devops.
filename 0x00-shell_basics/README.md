@@ -1,1 +1,1 @@
-Script to create a symbolic link
+Script for softlink
