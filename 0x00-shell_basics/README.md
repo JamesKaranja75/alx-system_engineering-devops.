@@ -1,1 +1,1 @@
-Script to move all fikes beginning with uppercase letter
+Script to move files beginning with an uppercase letter
