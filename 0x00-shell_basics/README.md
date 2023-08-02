@@ -1,1 +1,1 @@
-Script to list hidden files
+Script to print filename
