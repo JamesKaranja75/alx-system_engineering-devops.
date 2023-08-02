@@ -1,1 +1,1 @@
-Script to create a directory into another using a path
+Script to delete betty file
