@@ -1,1 +1,1 @@
-Print the path name of the current working directory
+Adjust current working directory
