@@ -1,1 +1,1 @@
-Script move files
+Script to make a directory
