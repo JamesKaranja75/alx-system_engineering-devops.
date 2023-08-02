@@ -1,1 +1,1 @@
-Script that creates the directories welcome/, welcome/to/ and welcome/to/school in current directory
+Script to create directories into each other in the current directory
