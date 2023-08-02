@@ -1,1 +1,1 @@
-Script to  create a directory named my_first_directory in the /tmp/ directory
+Script to create a directory into another using a path
