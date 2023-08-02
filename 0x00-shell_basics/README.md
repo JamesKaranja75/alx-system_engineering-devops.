@@ -1,1 +1,1 @@
-How to create a magic file that can be used with command file
+Before using the file command ensure to set the magic environment variable to the path of the school.mgc
