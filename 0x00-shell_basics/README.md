@@ -1,1 +1,1 @@
-Script to create directories into each other in the current directory
+Script that lists all files and directories of current directory,separated by commass
