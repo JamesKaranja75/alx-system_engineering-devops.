@@ -1,1 +1,1 @@
-Script to change working directory to previous one
+Script to list hidden files
